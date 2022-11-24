@@ -1,8 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=timeAuto&height=300&section=header&text=Welcome!%20Hyejin's%20Github&fontSize=60&fontcolor=black)
 
 <div align="center">
-    <h3>Welcome To Hyejin's Github!</h3>
-    <h4>안녕하세요! 성장하는 초급 Back-End 개발자 <span style="color: blueviolet;">김혜진</span>입니다 :)</h4>
+    <h3>안녕하세요! 성장하는 초급 Back-End 개발자 <span style="color: blueviolet;">김혜진</span>입니다 :)</h3>
     <br>
     <div style="margin: 50px auto;">
         <h3><strong style="color: blueviolet">💻 SKILL 💻</strong></h3>
