@@ -1,23 +1,6 @@
-<!--
-**whydontw/whydontw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-![header](https://capsule-render.vercel.app/api?type=slice&color=timeAuto&height=300&section=header&text=Welcome!%20Hyejin's%20Github&fontSize=60&fontcolor=black)
 <div align="center">
     <div style="line-height: 70%">
-        <h2>안녕하세요! :)</h2>
-        <h3>꾸준히 성장하는 초급 Back-End 개발자 <span style="color: rgb(47, 184, 149); font-size: 1em;"><strong>김혜진</strong></span>입니다</h3>
+        <h2>안녕하세요! :)</h2><h3>꾸준히 성장하는 초급 Back-End 개발자 <span style="color: rgb(47, 184, 149); font-size: 1em;"><strong>김혜진</strong></span>입니다</h3>
     </div>
     <br>
     <div style="margin: 50px auto;">
@@ -53,4 +36,3 @@ Here are some ideas to get you started:
         🔹 제6회 벤처창업아이템 경진대회 장려상
     </div>
 </div>
-![footer](https://capsule-render.vercel.app/api?type=slice&color=timeAuto&height=300&section=footer&fontSize=60)
