@@ -1,10 +1,11 @@
+![header](https://capsule-render.vercel.app/api?type=slice&color=timeAuto&height=300&section=header&text=Welcome!%20Hyejin's%20Github&fontSize=60&fontcolor=black)
+
 <div align="center">
-    <div style="line-height: 70%">
-        <h2>안녕하세요! :)</h2><h3>꾸준히 성장하는 초급 Back-End 개발자 <span style="color: rgb(47, 184, 149); font-size: 1em;"><strong>김혜진</strong></span>입니다</h3>
-    </div>
+    <h3>Welcome To Hyejin's Github!</h3>
+    <h4>안녕하세요! 성장하는 초급 Back-End 개발자 <span style="color: blueviolet;">김혜진</span>입니다 :)</h4>
     <br>
     <div style="margin: 50px auto;">
-        <h3><strong style="color: rgb(47, 184, 149);">💻 SKILL 💻</strong></h3>
+        <h3><strong style="color: blueviolet">💻 SKILL 💻</strong></h3>
         <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=white"> 
         <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white">
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"> 
@@ -20,19 +21,21 @@
         <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white">
         <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=white">
     </div>
-    <br>
+    <br><br>
     <div style="margin: 50px auto;">
-        <h3><strong style="color: rgb(47, 184, 149);">👩‍💻 ABOUT ME 👩‍💻</strong></h3>
-        🔸 시련이 닥쳐와도 긍정적으로 극복하는 <strong>잡초같은</strong> 개발자<br>
-        🔸 계획하고 설계하면 그대로 쭉쭉 나아가는 <strong>기관차같은</strong> 개발자<br>
-        🔸 새로운 기술을 언제든지 배우고 흡수할 준비가 되어 있는 <strong>스펀지같은</strong> 개발자<br><br>
+        <h3><strong style="color: blueviolet">👩‍💻 ABOUT ME 👩‍💻</strong></h3>
         🔸 국립공주대학교 행정학 학사<br>
-        🔸 한국폴리텍대학교 스마트소프트웨어과 웹 개발자 과정 수료
+        🔸 한국폴리텍대학교 스마트소프트웨어과 웹 개발자 과정 수료<br><br>
+        🔹 시련이 닥쳐와도 긍정적으로 극복하는 <strong>잡초같은</strong> 개발자<br>
+        🔹 계획하고 설계하면 그대로 쭉쭉 나아가는 <strong>기관차같은</strong> 개발자<br>
+        🔹 새로운 기술을 언제든지 배우고 흡수할 준비가 되어 있는 <strong>스펀지같은</strong> 개발자
     </div>
-    <br>
+    <br><br>
     <div style="margin: 50px auto;">
-        <h3><strong style="color: rgb(47, 184, 149);">🏆 PRIZE 🏆</strong></h3>
-        🔹 한국폴리텍대학 대전캠퍼스 프로젝트 경진대회 동상<br>
-        🔹 제6회 벤처창업아이템 경진대회 장려상
+        <h3><strong style="color: blueviolet">🏆 PRIZE 🏆</strong></h3>
+        🔸 제6회 벤처창업아이템 경진대회 장려상<br>
+        🔸 한국폴리텍대학 대전캠퍼스 프로젝트 경진대회 동상
     </div>
 </div>
+
+![footer](https://capsule-render.vercel.app/api?type=slice&color=timeAuto&height=300&section=footer&fontSize=60)
