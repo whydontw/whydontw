@@ -14,9 +14,7 @@ Here are some ideas to get you started:
 -->
 
 ![header](https://capsule-render.vercel.app/api?type=slice&color=timeAuto&height=300&section=header&text=Welcome!%20Hyejin's%20Github&fontSize=60&fontcolor=black)
-
 <div align="center">
-
     <div style="line-height: 70%">
         <h2>안녕하세요! :)</h2>
         <h3>꾸준히 성장하는 초급 Back-End 개발자 <span style="color: rgb(47, 184, 149); font-size: 1em;"><strong>김혜진</strong></span>입니다</h3>
@@ -54,7 +52,5 @@ Here are some ideas to get you started:
         🔹 한국폴리텍대학 대전캠퍼스 프로젝트 경진대회 동상<br>
         🔹 제6회 벤처창업아이템 경진대회 장려상
     </div>
-
 </div>
-
 ![footer](https://capsule-render.vercel.app/api?type=slice&color=timeAuto&height=300&section=footer&fontSize=60)
