@@ -23,10 +23,7 @@
     <br><br>
     <div style="margin: 50px auto;">
         <h3><strong style="color: blueviolet">👩‍💻 ABOUT ME 👩‍💻</strong></h3>
-        
-        🔸 국립공주대학교 행정학과 졸업
-        한국폴리텍대학교 스마트소프트웨어과 웹 개발자 과정 수료<br><br>
-        
+        🔸 한국폴리텍대학교 스마트소프트웨어과 웹 개발자 과정 수료<br><br>
     </div>
     <br><br>
     <div style="margin: 50px auto;">
