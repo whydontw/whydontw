@@ -1,5 +1,4 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=3fec9b&height=300&section=header&text=Welcome!%20Hyejin's%20Github&fontSize=60&fontcolor=black)
-
 <div align="center">
     <h3>안녕하세요! 성장하는 초급 Back-End 개발자 <span style="color: blueviolet;">김혜진</span>입니다 :)</h3>
     <br>
@@ -32,5 +31,4 @@
         🔸 한국폴리텍대학 대전캠퍼스 프로젝트 경진대회 동상
     </div>
 </div>
-
 ![footer](https://capsule-render.vercel.app/api?type=slice&color=fac9c9&height=300&section=footer&fontSize=60)
