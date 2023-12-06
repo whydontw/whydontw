@@ -31,4 +31,5 @@
         🔸 한국폴리텍대학 대전캠퍼스 프로젝트 경진대회 동상
     </div>
 </div>
+
 ![footer](https://capsule-render.vercel.app/api?type=slice&color=fac9c9&height=300&section=footer&fontSize=60)
