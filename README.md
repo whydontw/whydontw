@@ -23,6 +23,7 @@
     <div style="margin: 50px auto;">
         <h3><strong style="color: blueviolet">👩‍💻 ABOUT ME 👩‍💻</strong></h3>
         🔸 한국폴리텍대학교 스마트소프트웨어과 웹 개발자 과정 수료<br><br>
+        🔸 KH정보교육원 (디지털컨버전스)공공데이터 융합 웹 애플리케이션 개발자 양성과정 10_1회차 과정 수료<br><br>
     </div>
     <br><br>
     <div style="margin: 50px auto;">
