@@ -3,7 +3,7 @@
     <h3>안녕하세요! 성장하는 초급 개발자 김혜진입니다 :)</h3>
     <br>
     <div style="margin: 50px auto;">
-        <h3><strong style="color: blueviolet">💻 SKILL 💻</strong></h3>
+        <h3><strong style="color: blueviolet">💻 SKILL</strong></h3>
         <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=white"> 
         <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white">
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"> 
