@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=3fec9b&height=300&section=header&text=Welcome!%20Hyejin's%20Github&fontSize=60&fontcolor=black)
 <div align="center">
-    <h3>안녕하세요! 성장하는 초급 Back-End 개발자 <span style="color: blueviolet;">김혜진</span>입니다 :)</h3>
+    <h3>안녕하세요! 성장하는 초급 개발자 김혜진입니다 :)</h3>
     <br>
     <div style="margin: 50px auto;">
         <h3><strong style="color: blueviolet">💻 SKILL 💻</strong></h3>
@@ -21,15 +21,20 @@
     </div>
     <br><br>
     <div style="margin: 50px auto;">
-        <h3><strong style="color: blueviolet">👩‍💻 ABOUT ME 👩‍💻</strong></h3>
+        <h3><strong style="color: blueviolet">👩‍💻 ABOUT ME</strong></h3>
         🔸 한국폴리텍대학교 스마트소프트웨어과 웹 개발자 과정 수료<br>
         🔸 KH정보교육원 (디지털컨버전스)공공데이터 융합 웹 애플리케이션 개발자 양성과정 10_1회차 과정 수료
     </div>
     <br><br>
     <div style="margin: 50px auto;">
-        <h3><strong style="color: blueviolet">🏆 PRIZE 🏆</strong></h3>
+        <h3><strong style="color: blueviolet">🏆 PRIZE</strong></h3>
         🔸 제6회 벤처창업아이템 경진대회 장려상<br>
         🔸 한국폴리텍대학 대전캠퍼스 프로젝트 경진대회 동상
+    </div>
+    <br><br>
+    <div style="margin: 50px auto;">
+        <h3><strong style="color: blueviolet">📞 CONTACT ME</strong></h3>
+        ✉ khj930925@gmail.com<br>
     </div>
 </div>
 
